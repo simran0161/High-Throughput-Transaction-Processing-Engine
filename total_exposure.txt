@@ -1,0 +1,12 @@
+=== Total Exposure per Symbol ===
+Symbol: MSFT, Total Qty: 420
+Symbol: ICICIBANK, Total Qty: 260
+Symbol: NVDA, Total Qty: 105
+Symbol: GOOGL, Total Qty: 10
+Symbol: AAPL, Total Qty: 135
+Symbol: TSLA, Total Qty: 28
+Symbol: TCS, Total Qty: 30
+Symbol: INFY, Total Qty: 550
+Symbol: HDFCBANK, Total Qty: 30
+Symbol: RELIANCE, Total Qty: 190
+Symbol: AMZN, Total Qty: 25

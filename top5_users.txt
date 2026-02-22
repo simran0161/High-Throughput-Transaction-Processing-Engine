@@ -1,0 +1,6 @@
+=== Top 5 Users by Portfolio Value ===
+Account: 1016, Value: 435975.0
+Account: 1006, Value: 399275.0
+Account: 1005, Value: 362900.0
+Account: 1017, Value: 285500.0
+Account: 1009, Value: 205050.0

@@ -1,0 +1,64 @@
+=== Trades Grouped by User ===
+Account: 1001, Trades Count: 14
+  TradeId: 1, Symbol: AAPL, Qty: 50, Side: BUY
+  TradeId: 8, Symbol: NVDA, Qty: 30, Side: BUY
+  TradeId: 3, Symbol: AAPL, Qty: 20, Side: SELL
+  TradeId: 15, Symbol: NVDA, Qty: 10, Side: SELL
+  TradeId: 21, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 22, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 24, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 25, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 26, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 27, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 28, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 29, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 30, Symbol: AAPL, Qty: 5, Side: BUY
+  TradeId: 23, Symbol: AAPL, Qty: 5, Side: BUY
+Account: 1002, Trades Count: 3
+  TradeId: 11, Symbol: AAPL, Qty: 15, Side: BUY
+  TradeId: 20, Symbol: AAPL, Qty: 10, Side: SELL
+  TradeId: 2, Symbol: GOOGL, Qty: 10, Side: BUY
+Account: 1003, Trades Count: 2
+  TradeId: 41, Symbol: MSFT, Qty: 200, Side: BUY
+  TradeId: 4, Symbol: MSFT, Qty: 100, Side: BUY
+Account: 1004, Trades Count: 2
+  TradeId: 5, Symbol: TSLA, Qty: 5, Side: BUY
+  TradeId: 42, Symbol: TSLA, Qty: 15, Side: BUY
+Account: 1005, Trades Count: 2
+  TradeId: 7, Symbol: INFY, Qty: 200, Side: BUY
+  TradeId: 43, Symbol: INFY, Qty: 50, Side: BUY
+Account: 1006, Trades Count: 3
+  TradeId: 13, Symbol: RELIANCE, Qty: 75, Side: BUY
+  TradeId: 16, Symbol: RELIANCE, Qty: 25, Side: SELL
+  TradeId: 44, Symbol: RELIANCE, Qty: 40, Side: BUY
+Account: 1007, Trades Count: 2
+  TradeId: 14, Symbol: HDFCBANK, Qty: 60, Side: BUY
+  TradeId: 45, Symbol: HDFCBANK, Qty: 30, Side: SELL
+Account: 1008, Trades Count: 2
+  TradeId: 17, Symbol: ICICIBANK, Qty: 90, Side: BUY
+  TradeId: 46, Symbol: ICICIBANK, Qty: 100, Side: BUY
+Account: 1009, Trades Count: 2
+  TradeId: 18, Symbol: TCS, Qty: 40, Side: BUY
+  TradeId: 47, Symbol: TCS, Qty: 10, Side: SELL
+Account: 1010, Trades Count: 2
+  TradeId: 19, Symbol: AAPL, Qty: 100, Side: BUY
+  TradeId: 48, Symbol: AAPL, Qty: 50, Side: SELL
+Account: 1011, Trades Count: 2
+  TradeId: 31, Symbol: AMZN, Qty: 20, Side: BUY
+  TradeId: 49, Symbol: AMZN, Qty: 5, Side: BUY
+Account: 1012, Trades Count: 1
+  TradeId: 50, Symbol: NVDA, Qty: 25, Side: BUY
+Account: 1013, Trades Count: 1
+  TradeId: 33, Symbol: NVDA, Qty: 60, Side: BUY
+Account: 1014, Trades Count: 1
+  TradeId: 34, Symbol: MSFT, Qty: 120, Side: BUY
+Account: 1015, Trades Count: 1
+  TradeId: 35, Symbol: TSLA, Qty: 8, Side: BUY
+Account: 1016, Trades Count: 1
+  TradeId: 36, Symbol: INFY, Qty: 300, Side: BUY
+Account: 1017, Trades Count: 1
+  TradeId: 37, Symbol: RELIANCE, Qty: 100, Side: BUY
+Account: 1018, Trades Count: 0
+Account: 1019, Trades Count: 1
+  TradeId: 39, Symbol: ICICIBANK, Qty: 70, Side: BUY
+Account: 1020, Trades Count: 0

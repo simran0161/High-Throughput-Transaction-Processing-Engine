@@ -1,0 +1,41 @@
+=== Portfolio Summary per Account ===
+Account: 1001 - User-1001
+  Symbol: NVDA, Quantity: 20
+  Symbol: AAPL, Quantity: 80
+Account: 1002 - User-1002
+  Symbol: GOOGL, Quantity: 10
+  Symbol: AAPL, Quantity: 5
+Account: 1003 - User-1003
+  Symbol: MSFT, Quantity: 300
+Account: 1004 - User-1004
+  Symbol: TSLA, Quantity: 20
+Account: 1005 - User-1005
+  Symbol: INFY, Quantity: 250
+Account: 1006 - User-1006
+  Symbol: RELIANCE, Quantity: 90
+Account: 1007 - User-1007
+  Symbol: HDFCBANK, Quantity: 30
+Account: 1008 - User-1008
+  Symbol: ICICIBANK, Quantity: 190
+Account: 1009 - User-1009
+  Symbol: TCS, Quantity: 30
+Account: 1010 - User-1010
+  Symbol: AAPL, Quantity: 50
+Account: 1011 - User-1011
+  Symbol: AMZN, Quantity: 25
+Account: 1012 - User-1012
+  Symbol: NVDA, Quantity: 25
+Account: 1013 - User-1013
+  Symbol: NVDA, Quantity: 60
+Account: 1014 - User-1014
+  Symbol: MSFT, Quantity: 120
+Account: 1015 - User-1015
+  Symbol: TSLA, Quantity: 8
+Account: 1016 - User-1016
+  Symbol: INFY, Quantity: 300
+Account: 1017 - User-1017
+  Symbol: RELIANCE, Quantity: 100
+Account: 1018 - User-1018
+Account: 1019 - User-1019
+  Symbol: ICICIBANK, Quantity: 70
+Account: 1020 - User-1020
